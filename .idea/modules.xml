@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libs/facebook-android-sdk/facebook/Facebook.iml" filepath="$PROJECT_DIR$/libs/facebook-android-sdk/facebook/Facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/facebook-android-sdk/examples/Hackbook/Hackbook.iml" filepath="$PROJECT_DIR$/libs/facebook-android-sdk/examples/Hackbook/Hackbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/facebook-android-sdk/examples/simple/Simple.iml" filepath="$PROJECT_DIR$/libs/facebook-android-sdk/examples/simple/Simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/facebook-android-sdk/examples/stream/Stream.iml" filepath="$PROJECT_DIR$/libs/facebook-android-sdk/examples/stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/facebook-android-sdk/tests/Tests.iml" filepath="$PROJECT_DIR$/libs/facebook-android-sdk/tests/Tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fb.iml" filepath="$PROJECT_DIR$/fb.iml" />
+    </modules>
+  </component>
+</project>
+
